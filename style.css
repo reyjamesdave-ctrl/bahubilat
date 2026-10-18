@@ -1,0 +1,23 @@
+
+.options-title {
+    font-size: 14px;
+    font-weight: normal;
+    color: #666;
+}
+
+.answer-options {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 15px;
+}
+
+.answer-options .option {
+    flex: 1;
+    margin-top: 0;
+    background-color: #f9a8d4;
+    color: #831843;
+}
+
+.answer-options .option:hover {
+    background-color: #f472b6;
+}
